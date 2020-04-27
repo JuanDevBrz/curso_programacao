@@ -30,9 +30,4 @@ public class Quartos {
 		this.email = email;
 		this.numero = numero;
 	}
-
-	
-	
-	
-
 }
